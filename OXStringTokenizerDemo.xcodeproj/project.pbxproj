@@ -15,6 +15,7 @@
 		AD6821A81EE5500500644E24 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD6821A61EE5500500644E24 /* LaunchScreen.storyboard */; };
 		AD6821B31EE5500500644E24 /* OXStringTokenizerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD6821B21EE5500500644E24 /* OXStringTokenizerDemoTests.m */; };
 		AD6821BE1EE5500500644E24 /* OXStringTokenizerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AD6821BD1EE5500500644E24 /* OXStringTokenizerDemoUITests.m */; };
+		AD6821CC1EE5579C00644E24 /* demo.png in Resources */ = {isa = PBXBuildFile; fileRef = AD6821CB1EE5579C00644E24 /* demo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AD6821B91EE5500500644E24 /* OXStringTokenizerDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OXStringTokenizerDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD6821BD1EE5500500644E24 /* OXStringTokenizerDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OXStringTokenizerDemoUITests.m; sourceTree = "<group>"; };
 		AD6821BF1EE5500500644E24 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD6821CB1EE5579C00644E24 /* demo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = demo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				AD6821B11EE5500500644E24 /* OXStringTokenizerDemoTests */,
 				AD6821BC1EE5500500644E24 /* OXStringTokenizerDemoUITests */,
 				AD6821961EE5500500644E24 /* Products */,
+				AD6821CB1EE5579C00644E24 /* demo.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD6821CC1EE5579C00644E24 /* demo.png in Resources */,
 				AD6821A81EE5500500644E24 /* LaunchScreen.storyboard in Resources */,
 				AD6821A51EE5500500644E24 /* Assets.xcassets in Resources */,
 				AD6821A31EE5500500644E24 /* Main.storyboard in Resources */,
